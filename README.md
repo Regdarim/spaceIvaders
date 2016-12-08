@@ -1,2 +1,2 @@
 # spaceIvaders
-game
+https://regdarim.github.io/spaceIvaders/
